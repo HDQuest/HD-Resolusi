@@ -1,4 +1,6 @@
 RENCANA BELAJAR HD
 - Menguatkan fondasi
 - Belajar Python
+  * ML
+  * AI
 - Belajar database
