@@ -3,6 +3,7 @@ RENCANA BELAJAR HD
 - Belajar Python
   * ML
   * AI
-  * Physisc
+  * Math
 - Belajar database
-- Belajar Kalkulus
+  * My SQL 
+
