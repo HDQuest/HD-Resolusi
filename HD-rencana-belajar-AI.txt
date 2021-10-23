@@ -3,4 +3,6 @@ RENCANA BELAJAR HD
 - Belajar Python
   * ML
   * AI
+  * Physisc
 - Belajar database
+- Belajar Kalkulus
